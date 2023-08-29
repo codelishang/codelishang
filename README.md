@@ -1,5 +1,6 @@
-#离殇
-##一个努力成为咸鱼的菜鸡
+离殇
+
+一个努力成为咸鱼的菜鸡
 
 [![image](https://github.com/codelishang/codelishang/blob/main/img/5.jpg)](https://github.com/codelishang/codelishang/blob/main/img/5.jpg)
 
