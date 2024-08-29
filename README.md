@@ -2,7 +2,7 @@
 
 一个努力成为咸鱼的菜鸡
 
-[![image](https://github.com/codelishang/codelishang/blob/main/img/5.jpg)](https://github.com/codelishang/codelishang/blob/main/img/5.jpg)
+[![image]([https://github.com/codelishang/codelishang/blob/main/img/5.jpg](https://gitee.com/codelishang/pic-bed/raw/master/img/202407282305001.png))](https://github.com/codelishang/codelishang/blob/main/img/5.jpg)
 
 今年汇总
 
