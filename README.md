@@ -1,20 +1,24 @@
-<div align="center">
+# 我是离殇
 
-# 离殇
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-coderlishang-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/coderlishang)
-[![Gitee](https://img.shields.io/badge/Gitee-codelishang-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/codelishang)
+你好，我是离殇。努力成为咸鱼的菜鸡。
 
-> 努力成为咸鱼的菜鸡
+- GitHub：[coderlishang](https://github.com/coderlishang)
+- Gitee：[codelishang](https://gitee.com/codelishang)
+- 正在做：[token-work-roi](https://github.com/coderlishang/token-work-roi)，本地 AI 编程 token 投入产出复盘软件。
+- 项目：[linux_midterm](https://gitee.com/codelishang/linux_midterm)，Linux 期中作业。
 
-</div>
+## 常用技术
 
-## 公开展示
-
-| 项目 | 说明 |
-| --- | --- |
-| [token-work-roi](https://github.com/coderlishang/token-work-roi) | 本地 AI 编程 token 投入产出复盘软件 |
-| [linux_midterm](https://gitee.com/codelishang/linux_midterm) | Linux 期中作业 |
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 今年汇总
 
@@ -29,14 +33,3 @@
     <img src="https://ghchart.rshah.org/0f766e/coderlishang" alt="GitHub 年度贡献图" />
   </a>
 </p>
-
-| GitHub 贡献与活动 | [查看主页](https://github.com/coderlishang) |
-| --- | --- |
-| GitHub 全部仓库 | [查看仓库列表](https://github.com/coderlishang?tab=repositories) |
-| Gitee 项目与动态 | [查看主页](https://gitee.com/codelishang) |
-
----
-
-<div align="center">
-  <sub>GitHub 与 Gitee 资料。</sub>
-</div>
